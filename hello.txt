@@ -1,2 +1,3 @@
 random text - from local
 text - from github interface
+conflict - from local
